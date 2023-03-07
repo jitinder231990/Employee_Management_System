@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLoXVuT7u0IInzDhGP/hjbk9i/ytwUTy9j+wOEs+GgJirzkle6cHkYBsOfHk1E+Xidu37rewB7PsqJUP437ugg==",
+  "success": true,
+  "projectFilePath": "G:\\Asp_work\\core_api\\Employee_Frontend\\Employee_Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nic Punjab\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
